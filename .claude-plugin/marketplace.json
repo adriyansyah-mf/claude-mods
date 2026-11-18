@@ -1,0 +1,5 @@
+{
+  "name": "wonka-mods",
+  "owner": { "name": "wonka" },
+  "plugins": [{ "name": "model-router", "source": "./", "description": "Auto-route prompts and subagents to haiku/sonnet/opus by difficulty, plus auto compact every N prompts" }]
+}

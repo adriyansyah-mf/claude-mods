@@ -1,0 +1,5 @@
+{
+  "name": "model-router",
+  "version": "0.3.0",
+  "description": "Auto-route each prompt and subagent to haiku, sonnet or opus by task difficulty to save usage"
+}
